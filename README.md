@@ -1,1 +1,1 @@
-# Events-Hub
+# clg-event
